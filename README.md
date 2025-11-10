@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👾 Offensive Security</h1>
   <img
-    src="https://img.shields.io/badge/status-hacking%20the%20planet-red?style=for-the-badge&logo=gnubash&logoColor=white"
+    src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif"
     alt="status"
   />
 </div>
