@@ -9,7 +9,7 @@
 
 ---
 
-# 🧾 Sobre / `aboutMe() in JavaScript`
+# `aboutMe()`
 
 ```js
 function aboutMe() {
