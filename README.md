@@ -1,13 +1,10 @@
-<h1 align="center">👾 Davi</h1>
-
 <p align="center">
-  <strong>OffSec Student · Bug Hunter </strong><br/>
+  <h2>👾 Offensive Security </h2>
   <img src="https://img.shields.io/badge/status-hacking%20the%20planet-red?style=for-the-badge&logo=gnubash&logoColor=white" alt="status"/>
 </p>
 
----
 
-# `aboutMe()`
+  # `aboutMe()`
 
 ```js
 function aboutMe() {
