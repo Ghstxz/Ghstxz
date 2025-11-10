@@ -17,8 +17,5 @@ function aboutMe() {
     role: "Offensive Security Student",
     focus: ["Bug Hunting", "Web & Mobile Pentesting"],
     langs: ["JavaScript", "Python", "C", "PHP"],
-    tools: ["Burp Suite", "nmap", "httpx", "sqlmap"],
-    age: 14,
-    motto: "Hack the planet 🌍"
   };
 }
