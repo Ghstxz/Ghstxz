@@ -1,7 +1,11 @@
-<p align="center">
-  <h2>👾 Offensive Security </h2>
-  <img src="https://img.shields.io/badge/status-hacking%20the%20planet-red?style=for-the-badge&logo=gnubash&logoColor=white" alt="status"/>
-</p>
+<div align="center">
+  <h1>👾 Offensive Security</h1>
+  <img
+    src="https://img.shields.io/badge/status-hacking%20the%20planet-red?style=for-the-badge&logo=gnubash&logoColor=white"
+    alt="status"
+  />
+</div>
+
 
 
   # `aboutMe()`
